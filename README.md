@@ -1,2 +1,0 @@
-# GodHost
-GodHost
